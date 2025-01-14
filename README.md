@@ -1,7 +1,8 @@
 # Proyecto realizado con ONE - Oracle Next Education
 # # ForoHub - Desafío con Spring Framework
-Programador BackEnd: **Franco Robles**
-Estudiante en **AluraLatam+Oracle**
+-Programador BackEnd: **Franco Robles**
+
+-Estudiante en **AluraLatam+Oracle**
 
 ## Descripción
 En este desafío, construiremos una API RESTful utilizando Spring que permita a los usuarios realizar las siguientes operaciones sobre los Topicos:
@@ -124,7 +125,7 @@ El `AutenticacionController` en el proyecto ForoHub proporciona la funcionalidad
 ## Contribuciones
 Los comentario y criticas son bienvenidas.
 
-# Gracias a ![oracle + alura](https://github.com/franco-robles/ConversorDeMonedas/tree/main/screenshots/OracleAlura.png) por la oportunidad.
+# Gracias a ![oracle + alura](screenshot/OracleAlura.png) por la oportunidad.
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
