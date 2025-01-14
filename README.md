@@ -124,7 +124,7 @@ El `AutenticacionController` en el proyecto ForoHub proporciona la funcionalidad
 ## Contribuciones
 Los comentario y criticas son bienvenidas.
 
-# Gracias a ![oracle + alura](screenshots/OracleAlura.png) por la oportunidad.
+# Gracias a ![oracle + alura](https://github.com/franco-robles/ConversorDeMonedas/tree/main/screenshots/OracleAlura.png) por la oportunidad.
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
