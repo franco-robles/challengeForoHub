@@ -26,7 +26,7 @@ public class UsuarioController {
 
 
     @GetMapping("/{id}")
-    public ResponseEntity<UsuarioAllOwnTopicos> newUser(@PathVariable Long id){
+    public ResponseEntity<UsuarioAllOwnTopicos> usuarioConTopicos(@PathVariable Long id){
         if (userRepo.findById(id).isEmpty()) {
         throw new ValidacionDeIntegridad("Usuario no encontrado");
     }
